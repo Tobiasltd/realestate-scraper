@@ -1,0 +1,808 @@
+,Adres,Postcode,Woningoppervlakte m2,Prijs
+0,Eduard Verkadelaan 33,3584GS,61,275000
+1,Eisenhowerlaan 274,3527HL,83,275000
+2,Augusto Sandinostraat 33,3573ZB,100,415000
+3,Pretoriadreef 62,3564BX,85,285000
+4,Pelikaanstraat 3,3582SB,106,415000
+5,Amsterdamsestraatweg 301 Bis,3551CG,108,435000
+6,Rachmaninoffplantsoen 16,3533JW,90,285000
+7,Braamstraat 20,3581TL,133,749000
+8,Homeruslaan 1,3581MA,62,369000
+9,Stadhouderslaan 6,3583JH,207,1085000
+10,Satijnvlinder 42,3544VX,161,525000
+11,Duurstedelaan 41,3525AM,101,400000
+12,Karl Millockerhof 1,3543HV,128,499000
+13,Tolsteegplantsoen 31 2,3523AK,59,285000
+14,Van Humboldtstraat 103,3514GN,129,675000
+15,Plesmanlaan 74,3555AR,106,325000
+16,Schaakstraat 46,3554EL,116,389000
+17,Donsvlinder 39,3544DP,122,425000
+18,Slotlaan 38,3523HD,62,275000
+19,Jacob Catsstraat 27,3521VE,95,425000
+20,Hendrika Van Tussenbroekplantsoen 6 2,3533SX,68,300000
+21,Bakhuizen Van Den Brinkstraat 51 Bis,3532GD,83,335000
+22,Livingstonelaan 1000,3526JP,72,175000
+23,Wolter Heukelslaan 49,3581ST,258,-
+24,Oudegracht Aan de Werf 344,3511PK,71,400000
+25,Jan Haringstraat 21,3554XV,102,345000
+26,Nico Dostalstraat 7,3543JH,174,700000
+27,Van Der Marckstraat 6 Bis,3554XK,17,90000
+28,Albrecht Thaerlaan 62,3571EH,110,469000
+29,Stadionlaan 49,3583RB,95,398000
+30,Westinghousestraat 34,3555VC,59,289500
+31,Verlengde Hoogravenseweg 145,3525BC,104,449000
+32,Van Bijnkershoeklaan 3,3527XA,75,235000
+33,Wageningseberg 340,3524LX,73,265000
+34,Stuivingastraat 36,3544LE,130,450000
+35,Himalaya 22,3524XD,100,315000
+36,Haverstraat 40,3511ND,35,245000
+37,Catharijnesingel 98 Bis,3511GT,111,579000
+38,Dollardstraat 16,3522AL,85,299000
+39,Seychellen 161,3524JC,94,339000
+40,Otterstraat 93,3513CK,70,375000
+41,Adikade 21,3531WS,100,449000
+42,Jekerstraat 7 Bis,3521EB,87,375000
+43,St.-ludgerusstraat 323,3553CX,91,299000
+44,Trinidaddreef 9,3563SH,88,260000
+45,Leonard Bernsteinkade 6,3543CC,156,575000
+46,Aartsbisschop Romerostraat 535,3573AS,87,275000
+47,Livingstonelaan 78,3526HN,70,225000
+48,Nieuwe Keizersgracht 40 Bis,3514TZ,113,519000
+49,Adriaanstraat 20,3581SE,105,600000
+50,Asterstraat 23,3551SW,70,-
+51,Lekplantsoen 17,3522GL,172,639000
+52,Terschelling 19,3524AV,33,169000
+53,Fortunadreef 55,3561EA,82,275000
+54,Saharadreef 9,3564CV,131,275000
+55,Amsterdamsestraatweg 909 C,3555HN,77,275000
+56,Bataviastraat 28,3531XE,62,275000
+57,Vlietstraat 16 A,3581SZ,55,325000
+58,Louis Armstronglaan 584,3543EB,51,225000
+59,Oranje Nassaulaan 47,3523VP,105,475000
+60,Deliuslaan 112,3533JV,74,275000
+61,Poortstraat 34-34 Bis,3572HK,-,875000
+62,Walcheren 75,3524ZR,36,200000
+63,Narcisstraat 16,3551ER,83,399000
+64,Bremstraat 82,3551TG,66,350000
+65,Oudegracht 373 C,3511PG,141,925000
+66,Berlagestraat 74,3555CW,35,175000
+67,Hermannus Elconiusstraat 55 Bis,3553VB,69,-
+68,Hendrika Van Tussenbroeklaan 170,3533SZ,71,269000
+69,Lessinglaan 61 2,3533AS,68,275000
+70,Waalstraat 166 D,3522SW,130,420000
+71,Van Esveldstraat 221,3572KM,90,410000
+72,Van Koetsveldstraat 82,3532ET,84,349000
+73,Furkabaan 697,3524ZG,44,210000
+74,Maaskantplantsoen 7,3544LL,128,439000
+75,Rolderdiephof 173,3521DC,120,599000
+76,Hooft Graaflandstraat 87,3525VP,112,500000
+77,Bloesemstraat 29,3581XB,69,387000
+78,Karel Doormanlaan 125,3572NN,95,350000
+79,Jacques Offenbachplantsoen 10,3543HK,136,584500
+80,Detmoldstraat 82,3523GH,66,275000
+81,Thinstraat 7,3581EP,86,415000
+82,Balistraat 76,3531PZ,13,75000
+83,Cayennedreef 3,3563SB,97,250000
+84,Van Brakelstraat 15 Bis,3572XP,121,570000
+85,De Vooysplantsoen 6,3571ZN,146,525000
+86,Gruttersdijk 37 Pp,3514BH,-,35000
+87,Klaverstraat 19 Bis,3572VA,88,395000
+88,Korfoedreef 139,3562SH,80,199500
+89,Telderslaan 54,3527KH,75,225000
+90,Elzas 72,3524RZ,81,275000
+91,Klifrakplantsoen 124,3544RB,130,450000
+92,Balijelaan 35 Bisa,3521GL,130,395000
+93,Pionstraat 20,3554EB,114,389000
+94,Spieghelstraat 47,3521XM,103,489000
+95,Oudwijkerdwarsstraat 73,3581LB,86,425000
+96,Ina Boudier-Bakkerlaan 26L,3582VA,30,190000
+97,Pastoor Van Nuenenstraat 2,3511RG,78,375000
+98,Bouwstraat 26 B,3572ST,103,425000
+99,Catalonie 8,3524KZ,79,325000
+100,Catharina Van Renneslaan 29,3533SB,108,-
+101,J Westerbaenstraat 4,3522DL,117,550000
+102,St.-bernulfstraat 4,3553AR,39,200000
+103,Hijmans Van Den Berghlaan 228,3571PH,46,200000
+104,Hijmans Van Den Berghlaan 224,3571PH,106,275000
+105,Johannes Van Andelstraat 22 Bis,3553TJ,53,225000
+106,Croesestraat 47,3522AB,55,275000
+107,Livingstonelaan 642,3526JE,92,-
+108,El Salvadordreef 12,3563HM,110,300000
+109,Burgemeester Van Tuyllkade 56 Bis,3553AK,102,325000
+110,J.D. Van Der Waalsstraat 3,3514GT,125,549000
+111,Rooseveltlaan 714,3526BJ,79,270000
+112,Burgemeester Van Tuyllkade 28bis,3553AJ,80,299000
+113,Rolderdiephof 179,3521DC,113,599000
+114,Karperstraat 14,3525CB,98,389500
+115,Andreasstraat 12,3511VD,103,600000
+116,Sumatrastraat 21,3531PB,45,265000
+117,Nijenrodelaan 107 + P,3554TZ,107,375000
+118,Seringstraat 144,3551TP,80,300000
+119,Harry Banninkstraat 92,3543CJ,156,500000
+120,Rhijnvis Feithstraat 26,3532GP,68,325000
+121,Adikade 48,3531WS,122,500000
+122,Julianaweg 213,3525VE,107,469000
+123,Oudenoord 575,3513EP,54,225000
+124,Catharijnesingel 100AA,3511GV,155,599000
+125,Egelantierstraat 46,3551GD,69,325000
+126,Bolksbeekstraat 44 Bis- 4,3521CT,16,78000
+127,Albert Van Dalsumlaan 211,3584HD,85,335000
+128,Troubadourhof 4,3525GS,51,150000
+129,Nicolaas Sopingiusstraat 76,3553TN,90,380000
+130,Monseigneur Van de Weteringstraat 73,3581ED,176,875000
+131,Dommeringdreef 63,3562AM,85,225000
+132,Wielingenplein 14,3522PC,94,539000
+133,Simon Stevinstraat 11,3514XC,76,425000
+134,Kerkstraat 12,3581RD,216,885000
+135,Oudegracht 90,3511AV,165,750000
+136,Burg Van Tuyllkade 122 Bisa,3553AN,45,-
+137,Royaards Van Den Hamkade 53,3552CK,127,475000
+138,Azielaan 714,3526SX,106,275000
+139,Jacob Van Der Borchstraat 74 B,3515XG,26,159500
+140,Harry Banninkstraat 14,3543CH,105,465000
+141,Korfoedreef 127,3562SH,81,245000
+142,Scheldestraat 22,3522CD,112,390000
+143,Rooseveltlaan 682,3526BH,80,229000
+144,Jaap Edendreef 178,3562AZ,66,-
+145,Wageningseberg 14,3524LR,70,280000
+146,Van Weerden Poelmanlaan 36,3527KN,96,-
+147,Kanaalweg 114,3533HJ,117,650000
+148,Kreekraklaan 20,3544WB,147,435000
+149,Tulpstraat 60,3581RN,65,385000
+150,Vleutenseweg 141,3532HB,98,355000
+151,Abstederdijk 195,3582BH,90,499000
+152,Peetersdreef 82,3562CE,81,215000
+153,Burgemeester Van Tuyllkade 122Bis A,3553AN,45,209000
+154,Europaplein 1133,3526WX,50,257500
+155,Werner Helmichstraat 97,3553JV,80,360000
+156,Hoogravenseweg 77,3523TH,82,395000
+157,Ridderplantsoen 11 I,3523HV,65,275000
+158,Adriaen Van Ostadelaan 71,3583AC,53,300000
+159,Croesestraat 163,3522AD,94,400000
+160,Europaplein 778,3526WP,33,182500
+161,Nicolaasweg 163,3581VH,69,399500
+162,Veilingstraat 99,3521BE,95,475000
+163,A.H.G. Fokkerstraat 8,3555BD,90,399000
+164,Hermelijnvlinderdijk 123,3544ZD,110,438000
+165,Schimmelpennincklaan 15 1,3571BE,115,450000
+166,Daalseweg 243,3555SV,100,600000
+167,Houtrakgracht 137,3544SB,121,425000
+168,Jacob Cabeliaustraat 6,3554VG,90,325000
+169,Daalseweghof 128,3555RC,117,575000
+170,Bolstraat 101,3581WV,83,399000
+171,Seinedreef 78,3562KS,96,289000
+172,Burt Bacharachstraat 70,3543DG,178,569000
+173,Eduard Verkadelaan 95,3584GT,82,320000
+174,Sterrenhof 7,3511EV,124,699000
+175,Ridderplantsoen 23,3523HX,66,280000
+176,Amsterdamsestraatweg 171C,3551CA,67,250000
+177,Hovenstraat 2,3581RS,50,275000
+178,Johan Wagenaarkade 19 Bis,3533TC,75,300000
+179,Wim Sonneveldlaan 197,3584ZS,149,675000
+180,Groenestraat 255,3512PW,51,325000
+181,Stadionlaan 45,3583RB,81,310000
+182,Oudegracht 84D,3511AT,122,639000
+183,Laan Van Chartroise 75,3552ER,66,250000
+184,Louis Armstronglaan 722,3543EB,116,569000
+185,Gageldijk 103,3566MH,224,1240000
+186,Albert Van Dalsumlaan 479,3584HK,116,425000
+187,Willem Barentszstraat 34,3572PK,237,1135000
+188,Utrechtseweg 20 A,3544NA,153,749000
+189,Van Zijlstraat 5,3552XR,61,275000
+190,Nedereindseweg 541 A Kavel+Bouwplan Villa,3546PN,-,1241000
+191,Julianaweg 351,3523XD,79,-
+192,Livingstonelaan 662,3526JG,70,195000
+193,Royaards Van Den Hamkade 5 1,3552CJ,59,235000
+194,Jan Pieterszoon Coenstraat 13 C,3531EK,27,175000
+195,Livingstonelaan 228,3526HT,57,200000
+196,Eerste Daalsedijk 296 Bis,3513TL,52,225000
+197,Volkerakstraat 31,3522RB,81,-
+198,Bataviastraat 67,3531XB,65,325000
+199,Croesestraat 151,3522AD,91,425000
+200,Seychellen 34,3524JA,99,345000
+201,Lessinglaan 41 2,3533AP,71,275000
+202,Van Lidth de Jeudestraat 28,3581GJ,165,829000
+203,Marie Curielaan 62,3553HV,60,275000
+204,Vleutenseweg 345,3532HG,71,269000
+205,Arthur Van Schendelstraa 185,3511MC,80,375000
+206,Arthur Van Schendelstraat 55,3511MA,85,375000
+207,Bollenhofsestraat 67,3572VJ,103,575000
+208,Prinses IRenelaan 74,3554HE,71,225000
+209,Jaap Edendreef 50,3562AV,56,199500
+210,Ondiep-Zuidzijde 201,3551DN,65,270000
+211,Europaplein 1125,3526WX,50,257500
+212,Plantenkasstraat 50,3544JE,-,452000
+213,Padangstraat 74,3531TD,88,575000
+214,Ferdinand Bolstraat 11,3583AN,108,550000
+215,Van Eysingalaan 13,3527VA,77,-
+216,Faraodreef 6,3564CT,131,272500
+217,Poelhekkestraat 1,3532CM,95,429000
+218,Vleutenseweg 296,3532HS,56,269000
+219,Jasondreef 12,3561EG,79,225000
+220,Abraham Kuijperstraat 33,3551XA,67,209000
+221,Livingstonelaan 1186,3526JT,106,295000
+222,Rhodosdreef 166,3562TK,80,215000
+223,Koningsweg 127,3582GD,129,425000
+224,Van Speijkstraat 23,3572XB,51,285000
+225,Domstraat 54,3512JB,55,385000
+226,Pijlstraat 8,3552XP,69,300000
+227,Doornstraat 7,3581TS,45,300000
+228,INa Boudier-Bakkerlaan 46,3582VA,-,17500
+229,Eisenhowerlaan 204,3527HK,67,250000
+230,Scheldestraat 21 Bis,3522CA,86,359000
+231,Dekhuyzenstraat 44,3572WN,119,499000
+232,Azoren 39,3524ET,135,429000
+233,Van Egmondkade 56 A,3553JJ,36,190000
+234,Bilderdijkstraat 33 Bis,3532VB,94,300000
+235,Bieslookstraat 20,3544BT,85,300000
+236,St.-winfridusstraat 19,3553SB,86,335000
+237,Borneostraat 5,3531PE,41,250000
+238,Hoogravenseweg 82,3523TN,102,550000
+239,Muyskenweg 5,3553GK,64,350000
+240,Valeriaanweg 123,3541TR,136,475000
+241,Maniladreef 14,3564JE,120,339000
+242,Magdalenastraat 25,3512NH,125,625000
+243,Peetersdreef 118,3562CG,55,177500
+244,Prins Bernhardlaan 9 Bis,3555AA,-,265000
+245,Vlieland 2,3524AA,36,175000
+246,Gruttersdijk 37 E,3514BH,62,335000
+247,Milosdreef 91,3562VH,92,235000
+248,Meloenstraat 58,3552VC,118,480000
+249,1e Atjehstraat 4,3531SK,78,-
+250,Kanaalstraat 71 A,3531CB,95,375000
+251,Rijnlaan 252,3522BZ,96,425000
+252,De Savornin Lohmanstraat 5 Bis,3551BS,80,320000
+253,De Wetstraat 9,3531AT,53,300000
+254,Ambachtstraat 5,3512ER,190,995000
+255,Herculeslaan 176,3584AB,172,1100000
+256,Jan Haringstraat 10,3554XW,85,315000
+257,Johannes Uitenbogaertstraat 10,3553VP,107,400000
+258,Jan Wolkerssingel 169,3541AA,174,625000
+259,Joseph Haydnlaan 38,3533AJ,62,295000
+260,Schutstraat 100,3551AC,87,300000
+261,Nicolaas Beetsstraat 126,3511HG,94,450000
+262,Hartingstraat 148,3511HV,85,400000
+263,Burg Van Tuyllkade 109 Bs,3553AE,88,265000
+264,Vleutenseweg 209,3532HC,92,369500
+265,Kerkdwarsstraat 34,3581RH,60,315000
+266,Cor Ruyslaan 41,3584GD,170,780000
+267,INa Boudier-Bakkerlaan 14 M,3582VA,45,269000
+268,F.C. Dondersstraat 43,3572JC,114,635000
+269,Hendrika Van Tussenbroeklaan 94,3533SZ,82,275000
+270,Mulderstraat 21,3581GN,115,498000
+271,Jacob Van Campenstraat 2J,3555CV,43,200000
+272,Marnixlaan 228,3552HK,124,350000
+273,Dillenburgstraat 9,3583VA,181,1050000
+274,Regentesselaan 3,3571CA,114,589000
+275,Veeartsenijpad 301,3572DH,126,800000
+276,Stanleylaan 3,3526TA,96,315000
+277,Nieuwe Koekoekstraat 65,3514EB,27,195000
+278,Merwedekade 229 Bis A,3522JM,82,325000
+279,Euterpedreef 57,3561CW,75,200000
+280,Anton Rooskenshof 19,3544ME,177,600000
+281,Auriollaan 111,3527ET,78,250000
+282,Rottumeroog 17,3524AE,40,169000
+283,Jodocus Van Lodensteinstraat 47,3553TB,93,350000
+284,Koppestokstraat 54,3554BE,97,360000
+285,Gijsbrecht Van Walenborchstraat 57,3515BS,118,560000
+286,Vossegatselaan 41,3583RR,132,499000
+287,Fruinplantsoen 16,3571PP,110,329000
+288,Westerdijk 6 B,3513EW,89,409000
+289,Luzernevlinder 93,3544DK,106,450000
+290,Huetlaan 1,3553GN,98,450000
+291,Prinses IReneplateau 93,3554HW,52,225000
+292,Jean Gilbertlaan 12,3543HE,339,1175000
+293,St.-janshovenstraat 2 A,3572RC,94,400000
+294,Abel Tasmanstraat 76,3531GW,77,300000
+295,Bankastraat 17,3531HG,111,475000
+296,Oswald Wenckebachhof 20,3541VJ,124,425000
+297,Maaskantplantsoen 8,3544LL,109,380000
+298,Azielaan 606,3526SV,92,240000
+299,Maniladreef 12,3564JE,134,395000
+300,Gerard Noodtstraat 45 B,3515VW,84,375000
+301,Otterstraat 54 D,3513CN,131,495000
+302,Bremstraat 18,3551TD,64,345000
+303,Croesestraat 88,3522AH,66,275000
+304,Prinses IRenelaan 68,3554HE,71,250000
+305,Miles Davisstraat 267,3543GT,-,265000
+306,Europaplein 1059,3526WX,50,255000
+307,Polderstraat 1,3513XN,89,400000
+308,Telderslaan 38,3527KG,73,225000
+309,Zwaardemakerlaan 14,3571ZC,90,369998
+310,Gerard Noodtstraat 45,3515VW,84,375000
+311,Sweelinckstraat 1 Bis,3581RT,156,675000
+312,Van Egmondkade 82 Bis,3553JL,84,289000
+313,Maliebaan 43,3581CD,422,2450000
+314,Hartingstraat 16-16 Bis,3511HV,277,945000
+315,Filipijnen 137,3524JK,100,335000
+316,Paul Cezannehof 24,3544KC,159,475000
+317,Azielaan 134,3526SG,103,-
+318,Ridderschapstraat 25,3512CN,145,650000
+319,Bekkeringhof 1,3571HV,162,695000
+320,Trumanlaan 56 C,3527BR,54,225000
+321,Amerikalaan 647,3526VZ,86,290000
+322,Trans 13,3512JJ,367,-
+323,Vondellaan 208,3521GZ,132,475000
+324,Adenauerlaan 15,3527RA,41,190000
+325,Van Swindenstraat 104,3514XW,119,550000
+326,Rose-Mariepad 12,3543BV,126,382500
+327,Borneostraat 16 Bis,3531PJ,90,275000
+328,Zwanenvechtlaan 40,3554GL,72,209000
+329,Katherijn Van Leemputdreef 17,3561TL,159,500000
+330,Azielaan 398,3526SM,56,190000
+331,Houtrakgracht 536,3544SE,116,360000
+332,Bataviastraat 99II,3531XC,29,170000
+333,Boomstraat 36 Bis,3582KS,83,442000
+334,Johanniterweg 3 B,3544ND,308,1270000
+335,Verlengde Hoogravenseweg 128,3525BK,122,500000
+336,Karawanken 30,3524DA,92,270000
+337,Albatrosstraat 9BS,3582ES,89,399000
+338,Adenauerlaan 89,3527RB,78,-
+339,Van Eysingalaan 362,3527VW,66,235000
+340,Adriaanstraat 13,3581SB,140,745000
+341,Heijermansstraat 30 Bis,3532EH,76,335000
+342,Charley Tooropstraat 3,3544MR,165,600000
+343,Korenbloemstraat 12,3551GN,94,450000
+344,Hooft Graaflandstraat 69,3525VN,101,430000
+345,Stroomstraat 35,3513VM,44,-
+346,Veilinghavenkade 7,3521AT,86,440000
+347,Prinses IReneplateau 106,3554HW,89,-
+348,Glenn Millerpad 10,3543GE,93,359000
+349,Homeruslaan 11 2,3581MB,69,299500
+350,Ondiep 200,3552EN,58,275000
+351,Karel Doormanlaan 170,3572NT,99,395000
+352,Jaap Edendreef 180,3562AZ,86,200000
+353,Kerrieweg 32,3541RM,145,477500
+354,Willem Barentszstraat 2,3572PH,221,1750000
+355,Adelboldstraat 14,3553SJ,93,350000
+356,Wittevrouwensingel 6,3581GA,211,860000
+357,Minahassastraat 15B,3531KV,68,250000
+358,Livingstonelaan 10,3526HM,82,-
+359,Pelmolenplantsoen 2,3511XZ,167,1150000
+360,M.A. de Ruyterstraat 52,3572XN,55,275000
+361,Prinses Margrietstraat 90,3554GH,72,275000
+362,Van Meursstraat 69,3532CH,92,350000
+363,Rochus Meeuwiszstraat 33,3554VR,85,349000
+364,Andreasstraat 10,3511VD,87,499000
+365,Opaalweg 135,3523RM,95,365000
+366,Galgenraklaan 23,3544TN,130,400000
+367,Houstondreef 15,3564KL,93,325000
+368,Rijnlaan 49 A,3522BC,43,200000
+369,Visschersplein 6 + Pp,3511LX,57,335000
+370,Kerrieweg 8,3541RM,144,500000
+371,Jan Van Scorelstraat 158--4,3583CV,18,107000
+372,Laan Van Soestbergen 45,3582ST,66,300000
+373,Leidseweg 144,3533HD,82,269000
+374,Melis Stokestraat 18 A,3515BP,193,1075000
+375,Wittevrouwensingel 102 Bisa,3514AM,198,775000
+376,Kees Van Bohemenhof 8,3544MC,155,575000
+377,Nieuwravenstraat 5,3522RK,53,285000
+378,Louise Kerlinghof 23,3571TR,114,419000
+379,Riouwstraat 35 A,3531CT,34,219000
+380,Rachmaninoffplantsoen 27,3533JW,91,275000
+381,Fortunadreef 15,3561EA,67,250000
+382,Cor Ruyslaan 19,3584GD,149,650000
+383,Wim Sonneveldlaan 139,3584ZR,180,895000
+384,Paul Linckehof 16,3543JT,152,459000
+385,Adriaen Van Ostadelaan 167-3,3583AH,73,300000
+386,Heinrich Bertestraat 40,3543JM,124,675000
+387,Donsvlinder 11,3544DP,122,395000
+388,Klaverstraat 63,3572VC,75,420000
+389,Adriaan Mulderstraat 84,3555BP,85,275000
+390,Sonny Rollinsstraat 214,3543GR,-,319000
+391,Lepelenburg 21,3512NJ,75,450000
+392,Oudwijkerdwarsstraat 120,3581LJ,62,289000
+393,Predikherenkerkhof 9,3512TJ,137,650000
+394,Herculeslaan 112,3584AB,251,1175000
+395,Amsterdamsestraatweg 243 J,3551CD,25,148000
+396,Adelaarstraat 46 Bis,3514CG,122,539000
+397,Werner Helmichstraat 137,3553JW,89,364500
+398,Pasteurstraat 10,3511HX,120,575000
+399,Hoogstraat 3,3552XJ,40,220000
+400,Van Der Mondestraat 20,3515BH,56,298000
+401,Singelstraat 16,3513BN,107,495000
+402,Mr. Tripkade 58,3571SZ,147,875000
+403,Maliesingel 84,3582AB,156,1200000
+404,Lauwerecht 159,3515GR,72,325000
+405,Prof H Bavinckstraat 64,3555GS,135,447500
+406,Vuurvlindersingel 43,3544DB,232,675000
+407,Bijlhouwerstraat 9,3511ZB,184,1225000
+408,Koekoekstraat 22 A,3514CW,102,500000
+409,Rubenslaan 79,3582JE,71,300000
+410,Aurorastraat 8,3581LV,135,695000
+411,Augusto Sandinostraat 238,3573ZH,129,500000
+412,Handelstraat 60,3533GL,134,625000
+413,Lijsterstraat 78,3514TE,96,510000
+414,Vleutenseweg 485,3532HK,72,345000
+415,Jutfaseweg 3 A,3522HA,138,649000
+416,Deliuslaan 58,3533JS,75,295000
+417,Burg Van Tuyllkade 17 Bs,3553AA,82,275000
+418,Klifrakplantsoen 46,3544RA,119,385000
+419,M A de Ruyterstraat 86-88,3572XN,323,1300000
+420,Nieuwegracht 67,3512LG,735,3600000
+421,Van Vollenhovenlaan 367,3527JJ,103,285000
+422,Luzernevlinder 86,3544DK,97,379000
+423,Pieter Nieuwlandstraat 49,3514HC,121,600000
+424,Sterrenhof 11,3511EV,86,575000
+425,Gageldijk 198,3566MJ,133,840000
+426,Heinrich Bertestraat 30,3543JM,197,849000
+427,Marnixlaan 294 A,3552HK,76,320000
+428,Saffierlaan 1,3523RA,108,439000
+429,Salland 14,3524TZ,80,250000
+430,Anton Pieckhof 32,3544MG,178,812500
+431,Dommeringdreef 287,3562AS,56,180000
+432,Sumatrastraat 8,3531PC,51,245000
+433,Van Brakelstraat 16bis A,3572XR,113,550000
+434,Burgemeester Van Tuyllkade 17BS,3553AA,82,275000
+435,Draaiweg 103 II,3515EL,45,249000
+436,Hermannus Elconiusstraat 72,3553VG,97,389000
+437,Tulastraat 51,3573XE,132,495000
+438,Cornelis Mertenssstraat 24,3553JS,126,440000
+439,Johan Wagenaarkade 90 I,3533TN,61,255000
+440,Cervanteslaan 113,3533HT,158,-
+441,Prof. Jordanlaan 4,3571KA,154,-
+442,Herenstraat 8 G,3512KC,29,275000
+443,Van Der Vlugtsingel 9,3544LA,74,340000
+444,Frederik Hendrikstraat 16,3583VM,190,1250000
+445,Loeff Berchmakerstraat 40 en 40 Bis,3512TE,212,995000
+446,Koppestokstraat 49,3554BB,85,290000
+447,Hermelijnvlinderdijk 131,3544ZD,107,415000
+448,Van Der Helststraat 46,3583AV,67,389500
+449,Berkelstraat 84,3522ER,115,425000
+450,Paulus Potterstraat 4,3583SN,133,650000
+451,Kouwerplantsoen 24,3571LT,122,419500
+452,Abraham Bloemaertstraat 18,3514VP,149,760000
+453,Amsterdamsestraatweg 503,3553ED,135,400000
+454,Burgemeester Norbruislaan 328,3555EN,60,200000
+455,Wibautstraat 64,3555WD,91,299000
+456,Wageningseberg 24,3524LR,71,285000
+457,Houstondreef 25,3564KL,110,374500
+458,Noltheniusstraat 18,3533SH,119,569000
+459,Wielingenplein 35,3522PD,99,475000
+460,Rooseveltlaan 670,3526BH,77,245000
+461,Cartesiusweg 79,3534BB,116,395000
+462,Stationsstraat 86,3511EH,96,525000
+463,Pieter Nieuwlandstraat 109,3514HG,96,389500
+464,Billitonkade 88 Bis,3531TL,92,325000
+465,Persimoenstraat 21,3545DB,80,349000
+466,Simplonbaan 61,3524GB,138,380000
+467,Vuurvlindersingel 5,3544DB,169,900000
+468,Vondellaan 29,3521GB,140,645000
+469,Jaap Edendreef 18,3562AV,85,200000
+470,Johan de Meesterstraat 83,3532EJ,104,372500
+471,Zandhofsestraat 80,3572GJ,129,510000
+472,Zonnebaan 24,3542EE,205,499000
+473,Nieuwe Koekoekstraat 10,3514EE,123,595000
+474,Louis Armstronglaan 656,3543EB,48,283250
+475,Beukstraat 23,3581XD,72,395000
+476,Cervanteslaan 47,3533HS,116,539000
+477,Theemsdreef 201,3562ED,78,205000
+478,Abraham Kuijperstraat 38,3551XB,47,215000
+479,Concordiastraat 50,3551EN,74,320000
+480,Rooseveltlaan 742,3526BK,79,230000
+481,Amsterdamsestraatweg 903,3555HN,298,500000
+482,Croesestraat 135,3522AD,87,419000
+483,Balderikstraat 127,3553BD,75,319500
+484,Prinses IReneplateau 115,3554HW,100,360000
+485,Joseph Haydnlaan 8,3533AE,171,750000
+486,Grasstraat 19,3572TV,95,550000
+487,Reitdiepstraat 35,3522GG,105,395000
+488,Balderikstraat 57,3553BB,71,269000
+489,Vlietstraat 16 Bis,3581SZ,57,269000
+490,Joan Mirostraat 50,3544NS,94,395000
+491,Edisonstraat 20,3553BS,50,235000
+492,Carolinen 7,3524JH,110,389000
+493,Gageldijk 207,3566MJ,183,875000
+494,St.-Willibrordusstraat 5,3553SL,46,215000
+495,Hofnarlaan 15,3525GM,79,275000
+496,Joseph Haydnlaan 32,3533AH,61,275000
+497,Merelstraat 23,3514CM,84,420000
+498,Blauwkapelseweg 25,3572KB,57,-
+499,Alexander Numankade 17 11,3572KP,14,-
+500,Jacques Offenbachplantsoen 30,3543HK,204,675000
+501,Van Vollenhovenlaan 151,3527JD,104,295000
+502,Adriaanstraat 71,3581SC,224,1150000
+503,Hondsrug 813,3524BZ,86,300000
+504,Kastanjestraat 12,3552SL,114,449500
+505,Patmosdreef 130,3562JR,92,260000
+506,Stadhouderslaan 65,3583JD,200,1125000
+507,Livingstonelaan 612,3526JE,95,239000
+508,Edisonstraat 93 Bs,3553BN,91,300000
+509,Asserlaan 1,3527VZ,100,389000
+510,Voorsterbeeklaan 48,3521DE,245,1695000
+511,Croeselaan 187 E,3521BM,37,275000
+512,Dahliastraat 14 A,3551SV,32,180000
+513,Mekongdreef 25,3564SP,130,385000
+514,Linschotensingel 1 Ab,3525XA,67,275000
+515,Bolksbeekstraat 38,3521CT,125,569000
+516,Van Lynden Van Sandenburglaan 25,3571BA,118,650000
+517,Jacob Van Ruisdaelstraat 64,3583CG,186,1150000
+518,Livingstonelaan 870,3526JL,88,230000
+519,Vogelvlinderweg 1,3544NJ,159,679500
+520,Noordzeestraat 3 Bis,3522PH,85,339000
+521,Salawatihof 20,3531WT,102,425000
+522,Valeriaanweg 117,3541TR,126,450000
+523,Pasteurstraat 5,3511HW,110,550000
+524,Jongeneelwerf 3,3513DD,80,500000
+525,Papiliohof 5,3544VV,133,425000
+526,Hermannus Elconiusstraat 28,3553VE,52,235000
+527,Louis Armstronglaan 694,3543EB,59,332000
+528,Kemal Ataturkstraat 119,3573PD,95,300000
+529,Jaap Edendreef 21,3562AT,77,250000
+530,Twijnstraat 54,3511ZM,218,839000
+531,Azielaan 592,3526ST,90,239500
+532,1e Daalsedijk 193,3513TE,53,260000
+533,Eerste Daalsedijk 193,3513TE,53,260000
+534,Dantelaan 69,3533VB,117,589000
+535,Eschersingel 51,3544ML,121,397000
+536,Fregatstraat 66,3534RG,90,400000
+537,Talmalaan 183,3515CX,94,375000
+538,Arnoldus Rotterdamstraat 6,3553TE,68,345000
+539,Jansveld 2 B- C,3512BG,225,1049000
+540,Balijelaan 18 Bis,3521GS,93,395000
+541,Adriaan Menninckkwartier 30,3554CT,136,495000
+542,Adriaan Van Bergenstraat 52,3554VE,98,329000
+543,Admiraal Van Gentstraat 25 Bis,3572XE,170,765000
+544,Zonstraat 48,3581MT,65,365000
+545,Nieuwe Koekoekstraat 18,3514EE,61,299000
+546,Jasmijnstraat 4,3551SR,93,400000
+547,Julianalaan 17,3581NS,277,1595000
+548,Johann Sebastiaan Bachstraat 22,3533XC,107,525000
+549,Amerongseberg 53,3524LM,100,365000
+550,Wilhelminapark 23,3581NE,288,1650000
+551,Washingtondreef 147,3564KD,68,200000
+552,Frederik Hendrikstraat 8,3583VL,39,250000
+553,Voorstraat 88 B,3512AT,47,250000
+554,Aartsbisschop Romerostraat 495,3573AR,87,295000
+555,Pieter de Hooghstraat 7,3583RG,61,350000
+556,Blauwkapelseweg 149,3572KE,173,775000
+557,Patmosdreef 146,3562JR,91,239000
+558,Knopstraat 10,3551ET,115,390000
+559,Nieuwe Koekoekstraat 14,3514EE,77,399000
+560,Prinses Ireneplateau 3,3554HW,98,329000
+561,Willem Barentszstraat 62,3572PM,121,590000
+562,Maliesingel 15,3581BD,384,1975000
+563,Dr. Max Euwestraat 4,3554EZ,81,269500
+564,Jan Van Ransdorpstraat 18 B,3554VZ,91,300000
+565,Surinamestraat 81,3531KK,74,254000
+566,Van Hoornekade 1 A,3554AR,78,299000
+567,Wageningseberg 2,3524LR,100,299500
+568,Pieterskerkhof 2,3512JR,187,1450000
+569,Trans 23,3512JJ,228,1245000
+570,Springweg 111,3511VM,100,850000
+571,Emmalaan 31 B,3581HN,80,539000
+572,Stadhouderslaan 89,3583JG,208,1125000
+573,Bleyenburgstraat 9,3572JN,164,895000
+574,Lepelaarstraat 6BIS,3582SN,98,395000
+575,Bouwstraat 29,3572SN,97,500000
+576,Brucknerlaan 23,3533KD,98,469000
+577,M.H. Trompstraat 34,3572XW,282,1485000
+578,Koppestokstraat 35 Iii,3554BB,33,150000
+579,Frederik Hendrikstraat 11,3583VE,191,1150000
+590,Slingeraklaan 58,3544SM,236,950000
+593,Prins Bernhardlaan 21 Bs,3555AA,79,325000
+596,Gijsbrecht van Walenborchstraat 57,3515BS,118,560000
+602,Wenenpromenade 16,3541DG,68,350000
+614,Catharijnesingel 100 Aa,3511GV,155,599000
+618,Korianderstraat 170,,199,850000
+620,Veldkersvliet 11,3545DG,204,675000
+637,Royaards van den Hamkade 53,3552CK,127,475000
+644,Jazzboulevard 30,3543EA,144,485000
+647,Willem van Noortstraat 131 133,,179,630000
+651,Rose-mariepad 12,3543BV,126,382500
+658,Hendrika van Tussenbroeklaan 170,3533SZ,71,269000
+661,Oudegracht 84d,3511AT,122,639000
+663,St.-eustatiusdreef 354,3564GG,73,225000
+671,Patmosdreef 10,3562JL,92,235000
+673,Torreshof 16,3526EZ,134,400000
+675,Gerard Revestraat 23,3544KK,82,349000
+685,Merwedeplantsoen 77,,155,519000 von
+691,Katherijn van Leemputdreef 17,3561TL,159,500000
+692,Van der Vlugtsingel 9,3544LA,74,340000
+703,Royaards van den Hamkade 5 1,3552CJ,59,235000
+705,Fregatstraat 9,3534RA,106,325000
+713,Prinses Irenelaan 68,3554HE,71,250000
+718,Prof. Jordanlaan 60,3571KB,120,750000
+728,Ina Boudier-bakkerlaan 26 L,3582VA,30,190000
+733,Jungfrau 6,3524WK,112,399000
+735,Moskeeplein 21,3531BX,85,400000
+736,Slingeraklaan 143,3544SK,122,435000
+737,Moskeeplein 38,3531BX,91,439000
+738,Laan van Chartroise 75,3552ER,66,250000
+743,Arthur van Schendelstraa 185,3511MC,80,375000
+747,Grifthoek 138,3514JK,118,675000
+752,Paranadreef 41,3563WC,70,199000
+760,Ondiep-zuidzijde 201,3551DN,65,270000
+762,Anton Koolhaasstraat 2,3544HV,176,589500
+763,Burg van Tuyllkade 122 Bisa,3553AN,45,Prijs op aanvraag
+768,Prinses Ireneplateau 106,3554HW,89,Prijs op aanvraag
+769,Burg van Tuyllkade 17 B,,79,Prijs op aanvraag
+771,Prinses Ireneplateau 93,3554HW,52,225000
+774,Van Humboldtstraat 3,3514GL,110,559000
+777,Johannes van Andelstraat 22 Bis,,53,225000
+779,Bakhuizen van den Brinkstraat 21,3532GB,35,225000
+780,Adikade 50,3531WS,127,500000
+781,Moliérelaan 5,3533VG,101,579000
+782,Annastraat 15,3512GP,132,750000
+783,Rijksdaalderplantsoen 2,3541GX,184,637500 von
+787,Van Brakelstraat 16 Bis A,,113,550000
+789,Zijlsterraklaan 32,3544ST,121,375950
+792,Van der Marckstraat 6 Bis,3554XK,17,90000
+798,H. Copijnlaan 6,3571VH,120,538500
+803,Alexandre Lecocqsingel 24,3543JE,295,1220000
+808,Arthur van Schendelstraat 173,3511MB,156,650000
+810,Jan van Scorelstraat 158 4,3583CV,18,107000
+826,Zwanenvechtlaan 60,3554GM,70,235000
+832,Albert van Dalsumlaan 97,3584HB,82,275000
+841,Koppestokstraat 35 III,3554BB,33,150000
+843,Elzas 12,3524RW,102,340000
+846,Papaverstraat 38,3551EW,117,360000
+849,Joseph Haydnlaan 1,,130,499000
+850,A.h.g. Fokkerstraat 8,3555BD,90,399000
+851,Karamelweg 33,3541RE,135,489000
+854,Parkzichtlaan,3544NX,85,334000 von
+862,Parkzichtlaan 0 Ong,3544NX,85,334000 von
+871,Hendrika van Tussenbroekplantsoen 6 2,3533SX,68,300000
+872,Bakhuizen van den Brinkstraat 51 Bis,3532GD,83,335000
+874,Herenweg 91,3513CD,55,300000
+875,Jan Wolkerssingel 343,3541AB,218,800000
+877,Vaduzdijk 3,3541DM,101,450000
+878,Simon Carmiggeltstraat 8,3544HX,129,475000
+879,Van Brakelstraat 16 Bisa,3572XR,113,550000
+881,Koningslaan 52,,235,1275000
+885,Van Lynden van Sandenburglaan 25,,118,650000
+888,Nieuwegracht 71,,232,995000
+899,Balijelaan 35 Bis A,,130,395000
+903,Dollardstraat 70,,85,312500
+904,Giessenplein 69,,105,397500
+905,Julianaweg 282,,103,499000
+907,Madridstraat,3541DZ,166,957500 von
+908,Billie Holidaystraat 12,3543EJ,120,450000
+909,Prinses Beatrixlaan 26,3554JK,188,895000
+912,Oudenoord 142,3513EV,42,200000
+916,Marnixlaan 258,3552HK,69,320000
+931,Louis Armstronglaan 678,3543EB,70,388000 von
+932,Jan Haringstraat 45,3554XV,102,Prijs op aanvraag
+934,Marshalllaan 139 E,3527TD,70,225000
+936,Louis Armstronglaan 754,3543EB,92,521000 von
+943,Joseph Haydnlaan 33,,125,489000
+951,Catharina van Renneslaan 29,3533SB,108,Prijs op aanvraag
+952,Johan Wagenaarkade 673,3533TH,73,289500
+955,Pastoor van Nuenenstraat 2,3511RG,78,375000
+957,Hijmans van den Berghlaan 224,3571PH,106,275000
+958,Hijmans van den Berghlaan 228,3571PH,46,200000
+961,Rooseveltlaan 760,3526BK,68,285000
+962,Louis Armstronglaan 712,3543EB,73,400000 von
+964,Tolsteegplantsoen 353,3523AL,87,369000
+965,Jan Pieterszoon Coenstra 13 Bis,3531EK,25,165000
+966,Hoveniersstraat 5,3513XS,76,359000
+969,Rhodosdreef 172,3562TL,81,195000
+970,Monseigneur van de Weteringstraat 73,3581ED,176,875000
+972,Westerdijk 6 C,3513EW,89,410000
+973,Zaagmolenkade 29,3515AD,58,259000
+976,Adriaen van Ostadelaan 71,3583AC,53,300000
+983,Haroekoeplein 118,3531WN,103,440000
+986,Satijnvlinder 80,3544VX,268,1000000
+989,Achter Sint Pieter 4 E,3512HS,80,579000
+991,Grootmeesterplein 2,3554ED,139,420000
+992,Schutstraat 154,3551AE,60,325000
+994,Bentheimerstraat 15,,167,765000
+995,Zuilenstraat 15 D,,75,425000
+998,J D van der Waalsstraat 3,,125,549000
+1004,Sigmund Rombergstraat 16,3543GC,197,869500
+1006,Guus Vleugelplantsoen 27,3544HR,120,450000
+1008,Luzernevlinder 107,3544DK,140,549000
+1014,Jacob van Campenstraat 2 J,3555CV,43,200000
+1018,Hometown 7,,213,708000 von
+1022,Balistraat 8,3531PW,103,480000
+1023,Van de Hulsthof 22,3582VZ,172,1150000
+1032,Vogelhof 3,,209,799000 von
+1038,Laan van Soestbergen 45,3582ST,66,300000
+1039,Rooseveltlaan 694,3526BJ,78,275000
+1041,F.c. Dondersstraat 43,3572JC,114,635000
+1042,Nijenrodeplantsoen 140,3554TT,112,425000
+1044,Brigittenstraat 11,,311,1695000
+1045,Oudegracht 84 G,,156,750000
+1048,Arthur van Schendelstraat 175,,142,595000
+1050,Oudegracht 79,,125,695000
+1051,Wijde Begijnestraat 27 Bis,,151,715000
+1062,Eisenhowerlaan 410,3527HR,79,250000
+1064,J.d. van der Waalsstraat 3,3514GT,125,549000
+1065,Verenigingstraat 22,3515GJ,68,329000
+1066,Adriaen van Ostadelaan 167 3,3583AH,73,300000
+1071,Philipsdaalderhof 14,3541GZ,121,500000
+1076,Marshalllaan 143 A,3527TD,72,240000
+1077,Catharijnesingel 131,3511GZ,130,500000
+1083,Vrouwjuttenhof-the New U- Type S 7,3512XR,167,1010000 von
+1084,Vrouwjuttenhof-the New U- Type S 4,3512XR,172,1085000 von
+1085,Vrouwjuttenhof-the New U- Type S 2,3512XR,171,1085000 von
+1087,M.h. Trompstraat 34,3572XW,282,1485000
+1089,Aurorastraat 28,3581LV,158,749000
+1090,Lijnmarkt 37 Baz,3511KG,63,Prijs op aanvraag
+1093,Vestibule 07,,95,384500 von
+1094,Oudegracht 179 Bis,3511NE,61,Prijs op aanvraag
+1098,Annie M G Schmidtstraat 68,3544HG,127,450000
+1099,Burg van Tuyllkade 109 Bs,3553AE,88,265000
+1107,Burg van Tuyllkade 17 Bis,3553AA,79,Prijs op aanvraag
+1110,Pablo 27,,154,560000 von
+1113,Talmalaan 95,3515CW,155,635000
+1115,Ina Boudier-bakkerlaan 14 M,3582VA,45,269000
+1116,Sint -ludgerusstraat 323,,91,299000
+1119,Zuilenstraat 9,,410,2200000
+1124,Bataviastraat 93 + 95,,138,550000
+1126,Tolsteegsingel 30 Bis,,143,750000
+1127,Burg van Tuyllkade 56 Bis,,102,325000
+1131,Vondellaan 250,,186,849000
+1132,Boekelaan 113,-,73,275000
+1133,Jaap Edendreef 152,-,84,200000
+1149,Burgemeester van Tuyllkade 122Bis A,-,45,209000
+1156,Jodocus van Lodensteinstraat 47,-,93,350000
+1161,Jan van Scorelstraat 158--4,-,18,107000
+1162,Adriaen van Ostadelaan 167-3,-,73,300000
+1168,Ondiep-Zuidzijde 4bis,-,95,349000
+1169,Pieter Nieuwlandstraat 2323 BIS,-,190,750000
+1170,Sweder Van Zuylenweg 72,-,100,365000
+1171,Peltlaan 141,-,120,359000
+1172,Bolksbeekstraat 14bis,-,78,335000
+1173,Rauwenhofflaan 42,-,50,185000
+1174,Lippizanerstraat 65,-,166,669000
+1175,Lepelenburg 35+ PP,-,102,669000
+1176,Tolsteegplantsoen 312,-,59,285000
+1179,Alexander Numankade 17-11,-,14,99500
+1181,Plesmanlaan 74 ,-,106,325000
+1187,Jacob van Campenstraat 2J,-,43,200000
+1190,Jan van Scorelstraat 158-4,-,18,107000
+1197,Johannes van Andelstraat 22bis,-,53,225000
+1211,Utrechtseweg 20a,-,153,749000
+1217,Johan Wagenaarkade 19-bis,-,75,300000
+1218,Prinses Irenelaan 74,-,71,225000
+1223,Fivelingo 93,-,85,299000
+1224,Draaiweg 103II,-,45,249000
+1234,Trumanlaan 56c,-,54,225000
+1243,Dr. Max Euwestraat 8,-,98,325000
+1244,Oudwijkerdwarsstraat 32,-,73,335000
+1247,Bergstraat 17-Bis,-,86,350000
+1248,Marie Curielaan 10,-,60,249000
+1249,Toscadreef 9,-,80,225000
+1250,Adriaen van Ostadelaan 1673,-,73.75,300000
+1251,Noordzeestraat 3 Bis ,-,85,339000
+1252,Zijlsterraklaan 32 ,-,121,375950
+1253,Trumanlaan 519,-,75,250000
+1255,Rubenslaan 85-II,-,73,275000
+1256,Telderslaan 66,-,75,235000
+1259,Burgemeester van Tuyllkade 17BS,-,82,275000
+1263,Tomaatstraat 7,-,113,450000
+1265,Van Brakelstraat 16bis a,-,113,550000
+1274,Mexicodreef 237,-,69,200000
+1277,Prinses Ireneplateau 115,-,100,360000
+1281,Asserlaan 16,-,82,309000
+1288,Priokstraat 25,-,72,350000
+1291,Einsteindreef 71A,-,70,250000
+1292,Lippizanerstraat 33,-,88,389000
+1295,1e daalsedijk 193,-,53,260000
+1305,Jan Haringstraat 19,-,101,334500
+1306,Van Hoornekade 1A,-,78,299000
+1308,Fortunadreef 7,-,82,265000
+1310,Prinses Ireneplateau 57,-,62,235000
+1312,Indusdreef 28,-,112,395000
+1313,Papaverstraat 38*,-,117,360000
+1314,Molenstraat 19,-,47,275000
+1315,Plantage 162,-,80,299000
+1316,Koppestokstraat 45,-,85,295000
+1317,De Sitterlaan 11,-,127,475000
+1321,Cornelis Mertenssstraat 29,-,77,250000
+1328,Krophollerstraat 6,-,193,895000
+1330,Tolsteegplantsoen 47,-,68,275000
+1331,Van Bijnkershoeklaan 95,-,66,225000
+1332,Burgemeester Norbruislaan 370,-,69,210000
+1333,Anton Koolhaasstraat 6-a,-,106,450000
+1334,Willem van Noortstraat 131133,-,179,630000
+1335,Fortunadreef 129,-,81,260000
+1336,Laan van Chartroise 96,-,140,365000
+1337,Laan van Soestbergen 33,-,62,247500
+1338,Paramaribostraat 39,-,70,225000
+1339,Curacaostraat 21,-,63,187500
+1340,Theo van Doesburgstraat 70,-,110,247500
+1341,Anjelierstraat 15,-,85,245000
+1342,Van Brakelstraat 17,-,125,398000
+1343,Kerkdwarsstraat 19,-,59,265000
